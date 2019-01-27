@@ -1,0 +1,10 @@
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\bin\Debug\vxk165930Asg4.exe.config
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\bin\Debug\vxk165930Asg4.exe
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\bin\Debug\vxk165930Asg4.pdb
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.csprojAssemblyReference.cache
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.Properties.Resources.resources
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.csproj.GenerateResource.cache
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.csproj.CoreCompileInputs.cache
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.exe
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.pdb
+C:\Users\vamse\source\repos\vxk165930Asg4\vxk165930Asg4\obj\Debug\vxk165930Asg4.TextSearch.resources
